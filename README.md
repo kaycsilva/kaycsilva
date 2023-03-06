@@ -3,7 +3,7 @@
 - 🔭 Estudando progamação com foco em back-end
 - 🌱 Estudando Python
 - 👨‍💻 "Completo" iniciante em progamação
-- 🚀 o foco e hackear a nasa..... zoando kkk
+- 🚀 foco: hackear a nasa
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaycsilva&show_icons=true&theme=merko)
   
