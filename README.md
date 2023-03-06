@@ -7,7 +7,6 @@
 - ⛔ sou homem e curto mulher
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaycsilva&show_icons=true&theme=merko)
-  ![pfpcat-gif](https://user-images.githubusercontent.com/127066304/223225506-b47997b8-9da2-4aff-a800-7411afd23e03.gif)
 
   
 <div>
@@ -28,3 +27,9 @@ er" alt="Kayc-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/de
 <dev>
   <a href="https://www.instagram.com/_kaycsilva/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </dev>
+
+##
+
+  ![pfpcat-gif](https://user-images.githubusercontent.com/127066304/223225506-b47997b8-9da2-4aff-a800-7411afd23e03.gif)
+
+  
