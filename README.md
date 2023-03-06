@@ -6,6 +6,11 @@
 - 🚀 o foco e hackear a nasa..... zoando kkk
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaycsilva&show_icons=true&theme=merko)
+  
+<div>
+  <img allgn="center" alt="Kayc-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+</div>
+  
   ##
 
 <div style="display: inline_block"><br>
