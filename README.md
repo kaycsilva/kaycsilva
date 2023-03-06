@@ -4,7 +4,7 @@
 - 🌱 Estudando Python
 - 👨‍💻 "Completo" iniciante em progamação
 - 🚀 foco: hackear a nasa
-- ⛔ sou homem e não sou gay. só acho dhr de animais fofos
+- ⛔ sou homem e curto mulher
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaycsilva&show_icons=true&theme=merko)
   
